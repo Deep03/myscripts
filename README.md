@@ -42,7 +42,7 @@ This Bash script provides a simple way to create and activate virtual environmen
 3. Run the script using the following command:
 
    ```bash
-   ./virtual-env.sh
+   ./virtualenv.sh
 
 4. Follow the prompts to choose the action you want to perform.
 
