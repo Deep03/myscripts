@@ -14,7 +14,7 @@ This script is designed to install dependency libraries listed in a requirements
 3. Run the script using the following command:
 
    ```shell
-   python install_dependencies.py
+   python package_install.py
 4. You will be prompted to enter the file path to the requirements.txt file. Provide the complete path including the filename and extension.
 5. The script will read the requirements.txt file and attempt to install each package listed.
 6. The installation progress will be displayed in the terminal, showing the package number being installed out of the total number of packages.
