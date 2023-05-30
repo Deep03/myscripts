@@ -42,22 +42,22 @@ This Bash script provides a simple way to create and activate virtual environmen
 3. Run the script using the following command:
 
    ```bash
-   ./script.sh
+   ./virtual-env.sh
 
 4. Follow the prompts to choose the action you want to perform.
 
 - If you choose to activate an existing virtual environment (A):
 
-- Enter the name of the directory where the virtual environment is located.
-- The virtual environment will be activated.
+   - Enter the name of the directory where the virtual environment is located.
+   - The virtual environment will be activated.
 
 - If you choose to create a new virtual environment (C):
 
-- Enter the name of the directory where the virtual environment will be created.
-- The virtual environment will be created and activated.
+   - Enter the name of the directory where the virtual environment will be created.
+   - The virtual environment will be created and activated.
 
 - If you choose to do nothing (N):
-- The script will exit and no action will be taken.
+   - The script will exit and no action will be taken.
 
 5. Once a virtual environment is activated, you can use it for your Python projects
 
