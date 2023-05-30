@@ -24,5 +24,6 @@ This script is designed to install dependency libraries listed in a requirements
 - Ensure that you have the necessary permissions to install packages on your system.
 - In case of any errors during the installation process, the script will display an error message. Please review the error and ensure that the file path and requirements.txt file are correct.
 
-##
-This project is licensed under the [MIT License].
+
+## License
+This project is licensed under the MIT License.
